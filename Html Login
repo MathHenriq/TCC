@@ -4,16 +4,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sign Up Form</title>
+    <title>Cadastre-se</title>
     <link rel="stylesheet" href="Css.css">
 </head>
 <body>
     <main>
-        <h1>Create Account</h1>
+        <h1>Crie Sua Conta</h1>
        
         <form action="">
             <label for="name">
-                <span>Name</span>
+                <span>Nome</span>
                 <input type="text" id="name" name="name">
             </label>
 
@@ -23,7 +23,12 @@
             </label>
 
             <label for="password">
-                <span>Password</span>
+                <span>Senha</span>
+                <input type="password" id="password" name="password">
+            </label>
+
+            <label for="password">
+                <span>Repita sua senha</span>
                 <input type="password" id="password" name="password">
             </label>
 
@@ -31,7 +36,7 @@
         </form>
     </main>
     <section class="images">
-        <img src="mobile.svg" alt="Mobile">
+
         <div class="circle"></div>
     </section>
 </body>
