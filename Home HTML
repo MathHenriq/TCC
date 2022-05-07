@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" type="text/css" href="TCC_CSS.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="home css.css" media="screen" />
 <style>
 html,body,h1,h2,h3,h4 {font-family:"Lato", sans-serif}
 .mySlides {display:none}
@@ -235,6 +235,13 @@ html,body,h1,h2,h3,h4 {font-family:"Lato", sans-serif}
     </div>
     <button type="submit" class="w3-button w3-block w3-black">Send</button>
   </form>
+<br></br>
+  <div class="w3-container w3-black w3-padding-32">
+    <h1>Se Inscreva</h1>
+    <p>Para ser notificado de qualquer novidade!</p>
+    <p><input class="w3-input w3-border" type="text" placeholder="Seu E-mail" style="width:100%"></p>
+    <button type="button" class="w3-button w3-red w3-margin-bottom">Prosseguir</button>
+  </div>
 
 </div>
 <br></br> 
