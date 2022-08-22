@@ -87,21 +87,21 @@ html,body,h1,h2,h3,h4 {font-family:"Lato", sans-serif}
         <img src="camisascategorias.png" alt="New York" style="width:100%" class="w3-hover-opacity">
         <div class="w3-container w3-white">
           <p><b>Camisas</b></p>
-          <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Confira Já!</button>
+          <a href="Produtos Camisas.html" class="w3-button w3-black w3-margin-bottom">Confira Já!</a>
         </div>
       </div>
       <div class="w3-third w3-margin-bottom">
         <img src="calçascategorias.png" alt="Paris" style="width:100%" class="w3-hover-opacity">
         <div class="w3-container w3-white">
           <p><b>Calças</b></p>
-          <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Confira Já!</button>
+          <a href="Produtos Calças.html" class="w3-button w3-black w3-margin-bottom">Confira Já!</a>
         </div>
       </div>
       <div class="w3-third w3-margin-bottom">
         <img src="ternosparacatergoria.png" alt="San Francisco" style="width:100%" class="w3-hover-opacity">
         <div class="w3-container w3-white">
           <p><b>Ternos</b></p>
-          <button class="w3-button w3-black w3-margin-bottom" onclick="document.getElementById('ticketModal').style.display='block'">Confira Já!</button>
+          <a href="Produtos Ternos.html" class="w3-button w3-black w3-margin-bottom">Confira Já!</a>
         </div>
       </div>
     </div>
@@ -115,7 +115,7 @@ html,body,h1,h2,h3,h4 {font-family:"Lato", sans-serif}
     <h1 class="w3-jumbo w3-hide-small"><br></h1><br></h1>
     <h1 class="w3-hide-large w3-hide-medium">New arrivals</h1>
     <h1 class="w3-hide-small">Ternos com até 30% de desconto</h1>
-    <p><a href="#jeans" class="w3-button w3-black w3-padding-large w3-large">Compre Aqui</a></p>
+    <p><a href="Produtos.html" class="w3-button w3-black w3-padding-large w3-large">Compre Aqui</a></p>
   </div>
 </div>
 
