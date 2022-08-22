@@ -23,10 +23,12 @@
                 <span>Senha</span>
                 <input type="password" id="password" name="password">
             </label>
-
+<br>
+            <label>Ainda não tem uma conta?</label>
+            <a href="Cadastro.html">Clique Aqui!</a>
             
 
-            <input type="submit" value="Sign Up" id="button">
+            <button type="submit" value="Sign Up" id="button">
         </form>
     </main>
     <section class="images">
