@@ -116,7 +116,7 @@ main form input[type="button"] {
     transition: all .3s ease-in-out;
 }
 
-main form input[type="submit"]:hover {
+main form input[type="button"]:hover {
     background: #5952d4;
 }
 
