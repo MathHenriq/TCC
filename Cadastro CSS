@@ -104,7 +104,7 @@ main form input {
     border-radius: 8px;
 }
 
-main form input[type="submit"] {
+main form input[type="button"] {
     cursor: pointer;
     width: 50%;
     margin-top: 4rem;
@@ -116,7 +116,7 @@ main form input[type="submit"] {
     transition: all .3s ease-in-out;
 }
 
-main form input[type="submit"]:hover {
+main form input[type="button"]:hover {
     background: #5952d4;
 }
 
